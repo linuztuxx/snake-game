@@ -3,7 +3,7 @@
 import pygame
 import random
 
-### @linuztuxx python snake game ###
+### @linuztx python snake game ###
 ## 2024 ##
 
 # Initialize Pygame
